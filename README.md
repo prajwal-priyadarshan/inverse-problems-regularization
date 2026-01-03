@@ -12,7 +12,7 @@ A compact toolkit to demonstrate instability of naive pseudoinverse solutions fo
 ## Quick start
 1. Create a virtual environment and install requirements: `pip install -r requirements.txt`.
 2. Run the pipeline (saves data, figures, metrics): `python run_pipeline.py --noise-level all`.
-	- Add `--enable-llm` if `OPENAI_API_KEY` is set to generate LLM recommendations.
+	- Add `--enable-llm` if `GROQ_API_KEY` is set to generate LLM recommendations.
 3. Open `experiments/exp_01_baseline_failure.ipynb` to reproduce the baseline failure and diagnostics.
 
 ## Notes
