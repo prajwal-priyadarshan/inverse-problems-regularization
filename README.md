@@ -2,7 +2,7 @@
 
 ## Course
 **22MAT230 – Mathematics for Computing IV**  
-Amrita Vishwa Vidyapeetham
+Amrita Vishwa Vidyapeetham, Coimbatore
 
 ---
 
